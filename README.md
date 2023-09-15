@@ -1,2 +1,2 @@
 # Gamer-Fat
-esta es la pagina web de mi server de Discord
+esta era la pagina web de mi server de Discord
